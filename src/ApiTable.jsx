@@ -53,8 +53,8 @@ export const ApiTable = () => {
   // showColumn function :-
 
   const showColumn = () => {
-    gridColumnApi.setColumnVisible("body", hideColumn);
-    setHideColumn(false);
+    // gridColumnApi.setColumnVisible("body", hideColumn);
+    // setHideColumn(false);
   };
 
   useEffect(() => {
